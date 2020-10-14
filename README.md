@@ -6,7 +6,7 @@
 # My public repositories
 
 ## Til
-[![Til - Today i learned](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=laravel-repositories)](https://github.com/edsonjuniornarvaes/til) 
+[![Til - Today i learned](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=til)](https://github.com/edsonjuniornarvaes/til) 
 ## Laravel Framework
 [![Laravel Framework with Laradock structure](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=laravel-repositories)](https://github.com/edsonjuniornarvaes/laravel-repositories.git) 
 ## Slim Framework
