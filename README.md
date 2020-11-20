@@ -5,12 +5,12 @@
   <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonjuniornarvaes" /></a>
 
-<a href="https://www.facebook.com/iuricode/" alt="Facebook">
+<a href="https://www.facebook.com/edsonjuniornarvaes/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/edsonjuniornarvaes/"/>
 </a>
 
   <a href="https://www.instagram.com/edsonjuniornarvaes/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/edsonjuniornarvaes/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/edsonjr.andrade/"/></a>
 </p>  
 
 # My public repositories
