@@ -1,3 +1,5 @@
+[![Github stats](https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/edsonjuniornarvaes)
+
 <p align="left">
   <a href="mailto:edsonjunior.narvaes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=edsonjunior.narvaes@gmail.com" /></a>
