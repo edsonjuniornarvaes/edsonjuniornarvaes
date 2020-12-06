@@ -17,9 +17,15 @@
 
 # My public repositories
 
-### Til -Today i learned
-[![Til - Today i learned](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=til)](https://github.com/edsonjuniornarvaes/til) 
-### Laravel Framework
-[![Laravel Framework with Laradock structure](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=laravel-repositories)](https://github.com/edsonjuniornarvaes/laravel-repositories.git)
+<div align="left">
+  ### Til -Today i learned
+  [![Til - Today i learned](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=til)](https://github.com/edsonjuniornarvaes/til) 
+</div>
+
+<div align="left">
+  ### Laravel Framework
+  [![Laravel Framework with Laradock structure](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=laravel-repositories)](https://github.com/edsonjuniornarvaes/laravel-repositories.git)
+ </div>
+ 
 ### Slim Framework
 [![Twig and Slim with Docker structure](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=twig-slim-docker-structure)](https://github.com/edsonjuniornarvaes/twig-slim-docker-structure.git)
