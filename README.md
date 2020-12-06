@@ -17,8 +17,15 @@
 
 # My public repositories
 
- [![Til - Today i learned](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=til)](https://github.com/edsonjuniornarvaes/til) 
+## Idea
+[![TIL - Today i learned](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=til)](https://github.com/edsonjuniornarvaes/til.git)
 
+## Laravel Framwork
 [![Laravel Framework with Laradock structure](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=laravel-repositories)](https://github.com/edsonjuniornarvaes/laravel-repositories.git)
  
+ ## Twig and Slim
 [![Twig and Slim with Docker structure](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=twig-slim-docker-structure)](https://github.com/edsonjuniornarvaes/twig-slim-docker-structure.git)
+
+## Setup
+[![setup-for-development](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=setup-for-development)](https://github.com/edsonjuniornarvaes/setup-for-development.git)
+[![terminal-with-oh-my-zsh-and-spaceship](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=terminal-with-oh-my-zsh-and-spaceship)](https://github.com/edsonjuniornarvaes/terminal-with-oh-my-zsh-and-spaceship.git)
