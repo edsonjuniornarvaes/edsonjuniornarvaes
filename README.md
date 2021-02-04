@@ -1,5 +1,3 @@
-[![Github stats](https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/edsonjuniornarvaes)
-
 In 2015, I started the Information Systems course, after graduation, at the age of 22, I started my career in the world of programming as a web developer. In the following year, I completed the Postgraduate course in Web and Mobile Development, since then focus is the constant search for learning and specialization.
 
 <p align="left">
@@ -15,3 +13,5 @@ In 2015, I started the Information Systems course, after graduation, at the age 
     <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=edsonjunior.narvaes@gmail.com" />
   </a>
 </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/edsonjuniornarvaes)
