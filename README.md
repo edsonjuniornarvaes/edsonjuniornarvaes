@@ -1,6 +1,5 @@
-Web Developer - @agenciaecode.
-
-<p align="left">
+<p align="center">
+  Web Developer - @agenciaecode.
   <a href="https://www.facebook.com/edsonjuniornarvaes/" alt="Facebook">
     <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/edsonjuniornarvaes/"/>
   </a>
