@@ -17,15 +17,7 @@ Web Developer - @agenciaecode.
 In 2015, I started the Information Systems course, after graduation, at the age of 22, I started my career in the world of programming as a web developer. In the following year, I completed the Postgraduate course in Web and Mobile Development, since then focus is the constant search for learning and specialization.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=github-readme-stats)](https://github.com/edsonjuniornarvaes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact)](https://github.com/edsonjuniornarvaes/github-readme-stats)
-[![Github wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edsonjuniornarvaes)](https://github.com/edsonjuniornarvaes/github-readme-stats)
-<a href="https://github.com/edsonjuniornarvaes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes" />
-</a>
-<a href="https://github.com/edsonjuniornarvaes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&theme=radical)](https://github.com/edsonjuniornarvaes/github-readme-stats)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/edsonjuniornarvaes)
