@@ -20,6 +20,6 @@ In 2015, I started the Information Systems course, after graduation, at the age 
   <summary> <b>Github Stats</b>: </summary>
 <br>
 <p align="center">
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&theme=radical)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&theme=radical)](https://github.com/edsonjuniornarvaes)
-</p>
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=radical"/>
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&langs_count=8&exclude_repo=Senac-Projeto&layout=compact&theme=radical"/>
+  </p>
