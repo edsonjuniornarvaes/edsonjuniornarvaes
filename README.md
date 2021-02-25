@@ -16,9 +16,9 @@ Web Developer - @agenciaecode.
 
 In 2015, I started the Information Systems course, after graduation, at the age of 22, I started my career in the world of programming as a web developer. In the following year, I completed the Postgraduate course in Web and Mobile Development, since then focus is the constant search for learning and specialization.
 
-<a href="https://github.com/edsonjuniornarvaes/github-readme-stats">
+<a href="https://github.com/edsonjuniornarvaes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes" />
 </a>
 <a href="https://github.com/edsonjuniornarvaes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes" />
 </a>
