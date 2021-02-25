@@ -25,7 +25,5 @@ In 2015, I started the Information Systems course, after graduation, at the age 
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&langs_count=8&exclude_repo=Senac-Projeto&layout=compact&theme=radical"/>
 </p>
   
-<p align="center">
   ![](https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes)
   [![Github](https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes)
-</p>
