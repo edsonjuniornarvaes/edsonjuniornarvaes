@@ -18,17 +18,14 @@ In 2015, I started the Information Systems course, after graduation, at the age 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=github-readme-stats)](https://github.com/edsonjuniornarvaes)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes)](https://github.com/edsonjuniornarvaes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&exclude_repo=github-readme-stats,edsonjuniornarvaes.github.io)](https://github.com/edsonjuniornarvaes)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&hide=javascript,html)](https://github.com/edsonjuniornarvaes)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&langs_count=8)](https://github.com/edsonjuniornarvaes/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact)](https://github.com/edsonjuniornarvaes/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edsonjuniornarvaes)](https://github.com/edsonjuniornarvaes/github-readme-stats)
+[![Github wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edsonjuniornarvaes)](https://github.com/edsonjuniornarvaes/github-readme-stats)
 <a href="https://github.com/edsonjuniornarvaes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes" />
 </a>
 <a href="https://github.com/edsonjuniornarvaes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonjuniornarvaes" />
 </a>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/edsonjuniornarvaes)
