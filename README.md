@@ -20,9 +20,6 @@
   <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Discord">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
   </a>
-  <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Twitch">
-    <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>  
-  </a>
 </p>
 
 In 2015, I started the Information Systems course, after graduation, at the age of 22, I started my career in the world of programming as a web developer. In the following year, I completed the Postgraduate course in Web and Mobile Development, since then focus is the constant search for learning and specialization.
