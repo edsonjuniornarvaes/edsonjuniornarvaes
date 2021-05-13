@@ -13,6 +13,9 @@
   <a href="mailto:edsonjunior.narvaes@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=edsonjunior.narvaes@gmail.com" />
   </a>
+  <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Twitch">
+    <img alt="Twitch" src="https://img.shields.io/badge/<Twitch>-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>  
+  </a>
 </p>
 
 In 2015, I started the Information Systems course, after graduation, at the age of 22, I started my career in the world of programming as a web developer. In the following year, I completed the Postgraduate course in Web and Mobile Development, since then focus is the constant search for learning and specialization.
