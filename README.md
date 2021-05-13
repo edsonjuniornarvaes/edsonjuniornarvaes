@@ -3,18 +3,25 @@
 </p>
 <p align="center">
   <a href="https://www.facebook.com/edsonjuniornarvaes/" alt="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/edsonjuniornarvaes/"/>
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
-   <a href="https://www.instagram.com/edsonjr.andrade/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/edsonjr.andrade/"/>   </a>
-   <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsonjuniornarvaes" />
+  <a href="https://www.instagram.com/edsonjr.andrade/" alt="Facebook">
+    <img alt="Instagram" src="https://img.shields.io/badge/<Instagram>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="Linkedin">
+     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
   <a href="mailto:edsonjunior.narvaes@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=edsonjunior.narvaes@gmail.com" />
+	  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+  </a>
+  <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Twitch">
+    <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
   </a>
   <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Twitch">
     <img alt="Twitch" src="https://img.shields.io/badge/<Twitch>-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>  
+  </a>
+  <a href="https://edsonjunior-narvaes.medium.com" alt="Twitch">
+	  <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  
   </a>
 </p>
 
