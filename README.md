@@ -6,7 +6,7 @@
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/edsonjr.andrade/" alt="Facebook">
-    <img alt="Instagram" src="https://img.shields.io/badge/<Instagram>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="Linkedin">
      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  
@@ -18,7 +18,7 @@
     <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
   </a>
   <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Twitch">
-    <img alt="Twitch" src="https://img.shields.io/badge/<Twitch>-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>  
+    <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>  
   </a>
   <a href="https://edsonjunior-narvaes.medium.com" alt="Twitch">
 	  <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  
