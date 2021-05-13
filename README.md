@@ -15,7 +15,7 @@
 	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
   </a>
   <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Discord">
-    <img alt="Discord" src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
+    <img alt="Discord" src="https://img.shields.io/badge/DiscordE-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
   </a>
   <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Twitch">
     <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>  
