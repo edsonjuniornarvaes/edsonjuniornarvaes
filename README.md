@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="LinkedIn">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
-  <a href="https://edsonjunior-narvaes.medium.com" alt="Medium">
+  <a href="https://edsonjuniornarvaes.medium.com" alt="Medium">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  
   </a>
   <a href="mailto:edsonjunior.narvaes@gmail.com" alt="Gmail">
