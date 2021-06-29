@@ -22,7 +22,7 @@
   </a>
 </p>
 
-In 2015, I started the Information Systems course, after graduation, at the age of 22, I started my career in the world of programming as a web developer. In the following year, I completed the Postgraduate course in Web and Mobile Development, since then focus is the constant search for learning and specialization.
+In 2015 I joined the Information Systems course, after graduation I started my career as a Web Developer, in the following year I completed the Post-Graduate Course in Web and Mobile Development, since then the focus is on the constant search for learning and specialization.
 
 <details open>
   <summary> <b>Github Stats</b>: </summary>
