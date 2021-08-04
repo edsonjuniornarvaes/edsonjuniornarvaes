@@ -35,7 +35,4 @@ In 2015 I joined the Information Systems course, after graduation I started my c
     <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes) />
     <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) />
   </p>
-</details open>	
-  <br>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=edsonjuniornarvaes&theme=radical)](https://github.com/edsonjuniornarvaes/github-profile-trophy)
+</details open>	 
