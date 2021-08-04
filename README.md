@@ -39,5 +39,5 @@ In 2015 I joined the Information Systems course, after graduation I started my c
 <details open>
   <summary> <b>Github Profile Trophy</b>: </summary>
   <br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=edsonjuniornarvaes&theme=onedark)](https://github.com/edsonjuniornarvaes/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=edsonjuniornarvaes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 </details open>	
