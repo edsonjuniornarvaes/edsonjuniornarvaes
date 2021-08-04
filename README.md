@@ -26,12 +26,18 @@ In 2015 I joined the Information Systems course, after graduation I started my c
 
 <details open>
   <summary> <b>Github Stats</b>: </summary>
-<br>
-<p align="center">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=radical"/>
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&langs_count=8&exclude_repo=Senac-Projeto&layout=compact&theme=radical"/>
-</p>
-<p align="center">
-  <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes) />
-  <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) />
-</p>
+  <br>
+  <p align="center">
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=radical"/>
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&langs_count=8&exclude_repo=Senac-Projeto&layout=compact&theme=radical"/>
+  </p>
+  <p align="center">
+    <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes) />
+    <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) />
+  </p>
+</details open>	
+<details open>
+  <summary> <b>Github Profile Trophy</b>: </summary>
+  <br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=edsonjuniornarvaes&theme=radical)](https://github.com/edsonjuniornarvaes/github-profile-trophy)
+</details open>	
