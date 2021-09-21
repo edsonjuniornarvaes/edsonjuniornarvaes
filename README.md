@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="LinkedIn">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
+  <a href="https://dev.to/edsonjuniornarvaes" alt="Dev Community">
+    <img alt="Dev Community" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>  
+  </a>
   <a href="https://edsonjuniornarvaes.medium.com" alt="Medium">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  
   </a>
