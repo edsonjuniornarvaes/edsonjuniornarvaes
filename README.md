@@ -39,5 +39,8 @@ In 2015 I joined the Information Systems course, after graduation I started my c
     <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) />
   </p>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 </details open>	 
