@@ -26,11 +26,7 @@
 </p>
 
 In 2015 I joined the Information Systems course, after graduation I started my career as a Web Developer, in the following year I completed the Post-Graduate Course in Web and Mobile Development, since then the focus is on the constant search for learning and specialization.
-  <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
 <details open>
   <summary> <b>Github Stats</b>: </summary>
   <br>
@@ -42,5 +38,9 @@ No Activity tracked this Week
     <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes) />
     <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) />
   </p>
-
-</details open>	 
+</details open>
+<!--START_SECTION:waka-->
+    ```text
+        No Activity tracked this Week
+    ```
+<!--END_SECTION:waka-->
