@@ -25,6 +25,9 @@
   </a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 In 2015 I joined the Information Systems course, after graduation I started my career as a Web Developer, in the following year I completed the Post-Graduate Course in Web and Mobile Development, since then the focus is on the constant search for learning and specialization.
 
 <details open>
@@ -40,5 +43,4 @@ In 2015 I joined the Information Systems course, after graduation I started my c
   </p>
 </details open>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
