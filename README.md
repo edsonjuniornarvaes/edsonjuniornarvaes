@@ -41,4 +41,7 @@ In 2015 I joined the Information Systems course, after graduation I started my c
 </details open>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
