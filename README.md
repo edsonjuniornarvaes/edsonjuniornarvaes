@@ -34,7 +34,7 @@ Web development using React.js, Next.js, TypeScript, JavaScript, HTML 5, Php, La
 
 REST API consumption and Git experience.
 
--
+---
 
 Graduado em Sistemas para internet e Pós-graduado em Desenvolvimento web e mobile, desde 2015 o foco é a busca constante por aprendizado e especialização.
 
