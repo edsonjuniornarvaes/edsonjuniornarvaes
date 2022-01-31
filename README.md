@@ -25,7 +25,25 @@
   </a>
 </p>
 
-In 2015 I joined the Information Systems course, after graduation I started my career as a Web Developer, in the following year I completed the Post-Graduate Course in Web and Mobile Development, since then the focus is on the constant search for learning and specialization.
+Graduated in Internet Systems and Postgraduate in Web and Mobile Development, since 2015 the focus is the constant search for learning and specialization.
+
+Technologies I use daily:
+Mobile development using React Native, TypeScript, JavaScript, Expo, Firebase and app publishing on Google Play and App Store.
+
+Web development using React.js, Next.js, TypeScript, JavaScript, HTML 5, Php, Laravel with Blade, Slim with Twig, Doctrine and Docker.
+
+REST API consumption and Git experience.
+
+-
+
+Graduado em Sistemas para internet e Pós-graduado em Desenvolvimento web e mobile, desde 2015 o foco é a busca constante por aprendizado e especialização.
+
+Tecnologias que utilizo no dia a dia:
+Desenvolvimento mobile utilizando React Native, TypeScript, JavaScript, Expo, Firebase e publicação de app nas lojas Google Play e App Store.
+
+Desenvolvimento web utilizando React.js, Next.js, TypeScript, JavaScript, HTML 5, Php, Laravel com Blade, Slim com Twig, Doctrine e Docker.
+
+Consumo de APIs REST e experiência com Git.
 
 <details open>
   <summary> <b>Github Stats</b>: </summary>
