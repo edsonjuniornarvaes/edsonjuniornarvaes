@@ -36,14 +36,18 @@ REST API consumption and Git experience.
 
 ---
 
-Graduado em Sistemas para internet e Pós-graduado em Desenvolvimento web e mobile, desde 2015 o foco é a busca constante por aprendizado e especialização.
+<details open>
+  <summary> <b>Translation to PT-BR</b>: </summary>
+  <br>
+    Graduado em Sistemas para internet e Pós-graduado em Desenvolvimento web e mobile, desde 2015 o foco é a busca constante por aprendizado e especialização.
 
-Tecnologias que utilizo no dia a dia:
-Desenvolvimento mobile utilizando React Native, TypeScript, JavaScript, Expo, Firebase e publicação de app nas lojas Google Play e App Store.
+    Tecnologias que utilizo no dia a dia:
+    Desenvolvimento mobile utilizando React Native, TypeScript, JavaScript, Expo, Firebase e publicação de app nas lojas Google Play e App Store.
 
-Desenvolvimento web utilizando React.js, Next.js, TypeScript, JavaScript, HTML 5, Php, Laravel com Blade, Slim com Twig, Doctrine e Docker.
+    Desenvolvimento web utilizando React.js, Next.js, TypeScript, JavaScript, HTML 5, Php, Laravel com Blade, Slim com Twig, Doctrine e Docker.
 
-Consumo de APIs REST e experiência com Git.
+    Consumo de APIs REST e experiência com Git.
+</details open>
 
 <details open>
   <summary> <b>Github Stats</b>: </summary>
