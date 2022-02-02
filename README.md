@@ -20,9 +20,6 @@
   <a href="mailto:edsonjunior.narvaes@gmail.com" alt="Gmail">
 	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
   </a>
-  <a href="https://www.twitch.tv/edsonjuniornarvaes" alt="Discord">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>  
-  </a>
 </p>
 
 Graduated in Internet Systems and Postgraduate in Web and Mobile Development, since 2015 the focus is the constant search for learning and specialization.
