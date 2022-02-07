@@ -1,5 +1,5 @@
 <p align="center">
-  Web Developer - @agenciaecode.
+  Web and mobile developer - @agenciaecode.
 </p>
 <p align="center">
   <a href="https://www.facebook.com/edsonjuniornarvaes/" alt="Facebook">
