@@ -42,6 +42,4 @@ REST API consumption and Git experience.
     <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes) />
     <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) />
   </p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsonjuniornarvaes&theme=radical&v=2" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonjuniornarvaes &theme=radical" />
 </details open>
