@@ -1,5 +1,5 @@
 <p align="center">
-  Web and mobile developer - @agenciaecode.
+  React native developer - @agenciaecode.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="LinkedIn">
