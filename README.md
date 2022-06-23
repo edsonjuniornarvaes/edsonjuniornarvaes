@@ -1,5 +1,5 @@
 <p align="center">
-  React native developer - @agenciaecode.
+  React Native Developer
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="LinkedIn">
