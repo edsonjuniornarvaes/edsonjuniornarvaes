@@ -1,3 +1,5 @@
+teste.md
+
 <p align="center">
   React Native Developer
 </p>
@@ -25,7 +27,7 @@ Web development using React.js, Next.js, TypeScript, JavaScript, HTML 5, Php, La
 
 REST API consumption and Git experience.
 
-<details open>
+<!-- <details open>
   <summary> <b>Github Stats</b>: </summary>
   <br>
   <p align="center">
@@ -36,4 +38,4 @@ REST API consumption and Git experience.
     <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes) />
     <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) />
   </p>
-</details open>
+</details open> -->
