@@ -1,5 +1,3 @@
-teste.md
-
 <p align="center">
   React Native Developer
 </p>
