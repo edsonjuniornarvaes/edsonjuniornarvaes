@@ -38,5 +38,5 @@ REST API consumption and Git experience.
   </p>
   <p align="center">
     <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes) />
-    <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) />
+    <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) /></p>
 </details open>
