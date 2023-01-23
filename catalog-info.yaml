@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: edsonjuniornarvaes
+  annotations:
+    github.com/project-slug: edsonjuniornarvaes/edsonjuniornarvaes
+spec:
+  type: other
+  lifecycle: unknown
+  owner: teste
