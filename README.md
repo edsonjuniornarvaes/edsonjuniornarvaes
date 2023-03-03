@@ -26,16 +26,20 @@ Web development using React.js, Next.js, TypeScript, JavaScript, HTML 5, Php, La
 REST API consumption and Git experience.
 
 <details open>
-  <summary> <b>Github Stats</b>: </summary>.
-  <br>
-  <p align="center">
-    <img height=100 width=100 align="center" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
-    <img height=100 width=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&langs_count=8&layout=compact&theme=radical&hide_border=true"/>
-  </p>
-  <p align="center">
-    <img height=100 width=100 src="https://github-readme-streak-stats.herokuapp.com?user=edsonjuniornarvaes&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
-    <img height=100 width=100  src="https://github-readme-stats.vercel.app/api/wakatime?username=edsonjuniornarvaes&theme=radical&hide_border=true&langs_count=5&layout=compact&locale=pt-br"/>    
-  </p>
+  <summary> 
+    <strong>
+      Github Stats
+    </strong>
+  </summary>
+  <div align="center">
+    <img height=100 src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&langs_count=8&layout=compact&theme=radical&hide_border=true"/>
+    <img height=100 src="https://github-readme-stats.vercel.app/api/wakatime?username=edsonjuniornarvaes&theme=radical&hide_border=true&langs_count=5&layout=compact&locale=pt-br"/>    
+    <img height=100 src="https://github-readme-streak-stats.herokuapp.com?user=edsonjuniornarvaes&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br"/>
+  </div>
+
+  ---
+  
   <p align="center">
     <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes) />
     <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes) />
