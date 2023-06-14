@@ -1,5 +1,5 @@
 <p align="center">
-  React Native Developer
+  Specialist in web and mobile development
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/edsonjuniornarvaes" alt="LinkedIn">
