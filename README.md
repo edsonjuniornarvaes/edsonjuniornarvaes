@@ -16,14 +16,15 @@
   </a>
 </p>
 
-Graduated in Internet Systems and Postgraduate in Web and Mobile Development, since 2015 the focus is the constant search for learning and specialization.
+Iniciei minha carreira e me especializei no desenvolvimento Web utilizando React.js, desenvolvi projetos utilizando em conjunto o Next.js e aprimorei minhas habilidades em TypeScript.
 
-Technologies I use daily:
-Mobile development using React Native, TypeScript, JavaScript, Expo, Firebase and app publishing on Google Play and App Store.
+A meta sempre foi me especializar no mundo mobile, atualmente dedico meu tempo especificamente em React Native, trabalhando diariamente com o consumo de APIs REST, utilizando Sistema de versionamento e metodologias ágeis, criando e aprimorando designs de apps mobile pelo Figma, realizo a publicação de aplicativos móveis nas lojas Google Play e App Store, realizando o controle através dos painéis Google Play Console e App connect e por fim Desempenho o papel de Scrum Master em projetos mobile. Em 2023 tive a oportunidade de palestrar sobre a evolução dos smartphones, desenvolvimento mobile e mercado de trabalho.
 
-Web development using React.js, Next.js, TypeScript, JavaScript, HTML 5, Php, Laravel with Blade, Slim with Twig, Doctrine and Docker.
+Também apliquei e implementei o Spotify Backstage para melhor gerenciamento e organização da equipe.
 
-REST API consumption and Git experience.
+Por mais que tenha me especializado em TypeScript, já desenvolvi projetos utilizando PHP, Laravel com Blade, Slim com Twig, utilizei servidores Docker.
+
+Este é um breve resumo sobre algumas atividades e especializações que já tive a oportunidade de ter contato, sempre levando a ideia que a evolução é constante e os estudos não podem parar.
 
 <details open>
   <summary> 
