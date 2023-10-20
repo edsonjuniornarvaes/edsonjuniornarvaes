@@ -16,15 +16,27 @@
   </a>
 </p>
 
-Iniciei minha carreira e me especializei no desenvolvimento Web utilizando React.js, desenvolvi projetos utilizando em conjunto o Next.js e aprimorei minhas habilidades em TypeScript.
+Iniciei minha carreira e me especializei no desenvolvimento Web utilizando React.js, desenvolvi projetos utilizando em conjunto o Next.js e aprimorei minhas habilidades em JavaScript e TypeScript.
 
-A meta sempre foi me especializar no mundo mobile, atualmente dedico meu tempo especificamente em React Native, trabalhando diariamente com o consumo de APIs REST, utilizando Sistema de versionamento e metodologias ágeis, criando e aprimorando designs de apps mobile pelo Figma, realizo a publicação de aplicativos móveis nas lojas Google Play e App Store, realizando o controle através dos painéis Google Play Console e App connect e por fim Desempenho o papel de Scrum Master em projetos mobile. Em 2023 tive a oportunidade de palestrar sobre a evolução dos smartphones, desenvolvimento mobile e mercado de trabalho.
+O objetivo sempre foi me especializar no mundo do desenvolvimento mobile, atualmente dedico meu tempo especificamente em React Native, trabalhando diariamente com o consumo de APIs REST, utilizando Sistema de versionamento e metodologias ágeis, criando e aprimorando designs de apps mobile pelo Figma, realizo a publicação de aplicativos móveis nas lojas Google Play e App Store, realizando o controle através dos painéis Google Play Console e App connect e por fim Desempenho o papel de Scrum Master em projetos mobile. 
 
-Também apliquei e implementei o Spotify Backstage para melhor gerenciamento e organização da equipe.
+No ano de 2023 tive a oportunidade de aplicar minha primeira palestra e falei sobre a evolução dos smartphones, desenvolvimento mobile e mercado de trabalho para alunos do ensino fundamental e médio.
 
-Por mais que tenha me especializado em TypeScript, já desenvolvi projetos utilizando PHP, Laravel com Blade, Slim com Twig, utilizei servidores Docker.
+Atualmente o foco é o desenvolver utilizando React Native, porém anteriormente tive a oportunidade de desenvolver utilizando PHP, Laravel com Blade, Slim com Twig, utilizei servidores Docker e até fiz a implementação do Spotify Backstage para gerenciamento de projetos e equipes.
 
 Este é um breve resumo sobre algumas atividades e especializações que já tive a oportunidade de ter contato, sempre levando a ideia que a evolução é constante e os estudos não podem parar.
+
+---
+
+I started my career and specialized in Web development using React.js, developed projects together using Next.js and improved my skills in JavaScript and TypeScript.
+
+The goal has always been to specialize in the world of mobile development, currently I dedicate my time specifically to React Native, working daily with the consumption of REST APIs, using the versioning system and agile methodologies, creating and improving mobile application designs using Figma, Realizo publishing mobile applications in the Google Play and App Store stores, carrying out control through the Google Play Console and App Connect panels and finally playing the role of Scrum Master in mobile projects.
+
+In 2023 I had the opportunity to give my first lecture and I spoke about the evolution of smartphones, mobile development and the job market for primary and secondary school students.
+
+Currently the focus is on developing using React Native, but previously I had the opportunity to develop using PHP, Laravel with Blade, Slim with Twig, I used Docker servers and I even implemented Spotify Backstage for project and team management.
+
+This is a brief summary of some activities and specializations that I had the opportunity to have contact with, always taking into account the idea that evolution is constant and studies cannot stop.
 
 <details open>
   <summary> 
