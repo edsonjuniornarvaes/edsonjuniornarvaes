@@ -16,18 +16,6 @@
   </a>
 </p>
 
-Iniciei minha carreira e me especializei no desenvolvimento Web utilizando React.js, desenvolvi projetos utilizando em conjunto o Next.js e aprimorei minhas habilidades em JavaScript e TypeScript.
-
-O objetivo sempre foi me especializar no mundo do desenvolvimento mobile, atualmente dedico meu tempo especificamente em React Native, trabalhando diariamente com o consumo de APIs REST, utilizando Sistema de versionamento e metodologias ágeis, criando e aprimorando designs de apps mobile pelo Figma, realizo a publicação de aplicativos móveis nas lojas Google Play e App Store, realizando o controle através dos painéis Google Play Console e App connect e por fim Desempenho o papel de Scrum Master em projetos mobile. 
-
-No ano de 2023 tive a oportunidade de aplicar minha primeira palestra e falei sobre a evolução dos smartphones, desenvolvimento mobile e mercado de trabalho para alunos do ensino fundamental e médio.
-
-Atualmente o foco é o desenvolver utilizando React Native, porém anteriormente tive a oportunidade de desenvolver utilizando PHP, Laravel com Blade, Slim com Twig, utilizei servidores Docker e até fiz a implementação do Spotify Backstage para gerenciamento de projetos e equipes.
-
-Este é um breve resumo sobre algumas atividades e especializações que já tive a oportunidade de ter contato, sempre levando a ideia que a evolução é constante e os estudos não podem parar.
-
----
-
 I started my career and specialized in Web development using React.js, developed projects together using Next.js and improved my skills in JavaScript and TypeScript.
 
 The goal has always been to specialize in the world of mobile development, currently I dedicate my time specifically to React Native, working daily with the consumption of REST APIs, using the versioning system and agile methodologies, creating and improving mobile application designs using Figma, Realizo publishing mobile applications in the Google Play and App Store stores, carrying out control through the Google Play Console and App Connect panels and finally playing the role of Scrum Master in mobile projects.
