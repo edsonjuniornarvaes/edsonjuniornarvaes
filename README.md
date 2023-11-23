@@ -1,4 +1,4 @@
-# Edson Junior - Desenvolvedor Mobile e Web
+### Edson Junior - Desenvolvedor Mobile e Web
 
 <p>Iniciei minha carreira como desenvolvedor Front-End, participei de projetos onde tive contato com tecnologias como PHP7, Laravel com Blade, Slim com Twig, utilizei servidores Docker e contribui com a implementação do Spotify Backstage para gerenciamento de projetos e equipes.
 
