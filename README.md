@@ -1,7 +1,9 @@
 # Edson Junior
 
-<p>Iniciei minha carreira como desenvolvedor Front-End, participei de projetos onde tive contato com tecnologias como PHP7, Laravel com Blade, Slim com Twig, utilizei servidores Docker e contribui com a implementação do Spotify Backstage para gerenciamento de projetos e equipes.
+<p>
+Iniciei minha carreira como desenvolvedor Front-End, trabalhando com PHP7, Laravel, Slim e Docker.
 
-Me especializei no desenvolvimento Web utilizando React.js, desenvolvi projetos utilizando em conjunto o Next.js e aprimorei minhas habilidades em JavaScript e TypeScript.
+Me especializei em desenvolvimento Web com React.js, Next.js, JavaScript e TypeScript, e participei de um projeto utilizando o Spotify Backstage para gerenciamento de projetos.
 
-Em constante aprendizado busquei me especializar no mundo do desenvolvimento mobile, atualmente dedico meu tempo especificamente com React Native, trabalhando diariamente com o consumo de APIs REST, utilizando Sistema de versionamento e metodologias ágeis, criando e aprimorando designs pelo Figma, realizo a publicação de aplicativos móveis nas lojas Google Play e App Store, realizando o controle através dos painéis Google Play Console e App Connect e por fim desempenho o papel de Scrum Master em projetos mobile.</p>
+Atualmente, foco no desenvolvimento mobile com React Native, consumindo APIs REST, utilizando versionamento de código e metodologias ágeis, criando designs no Figma e publicando aplicativos nas lojas Google Play e App Store. Também já atuei como Scrum Master em projetos mobile.
+</p>
