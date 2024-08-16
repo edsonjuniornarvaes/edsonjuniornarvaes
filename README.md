@@ -8,4 +8,4 @@
   Atualmente, foco no desenvolvimento mobile com React Native, consumindo APIs REST, utilizando versionamento de código e metodologias ágeis, criando designs no Figma e publicando aplicativos nas lojas Google Play e App Store. Também já atuei como Scrum Master em projetos mobile.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=020217&height=80&section=footer" style="width: 100%; height: auto; margin-top: 0;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39D353&height=80&section=footer" style="width: 100%; height: auto; margin-top: 0;" />
