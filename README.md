@@ -10,19 +10,11 @@ Atualmente, foco no desenvolvimento mobile com React Native, aplicando testes un
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=29A889&height=80&section=footer" style="width: 100%; height: auto; margin-top: 0;" />
 
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=edsonjuniornarvaes&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&theme=gotham&hide_border=true&layout=compact&langs_count=5" />
-    </td>
-  </tr>
-</table>
+  <div align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true"  height={150}/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=edsonjuniornarvaes&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D" height={150}/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&theme=gotham&hide_border=true&layout=compact&langs_count=5"  height={150}/>
+  </div>
 
   
 <p align="center">
