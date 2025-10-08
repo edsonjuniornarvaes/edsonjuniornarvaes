@@ -8,8 +8,6 @@ Trabalho com testes automatizados utilizando Jest, monitoramento de desempenho e
 Já liderei projetos atuando como Scrum Master, contribuindo tanto na frente técnica quanto na organização dos times.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=29A889&height=80&section=footer" style="width: 100%; height: auto; margin-top: 0;" />
-
 ### 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -23,3 +21,5 @@ Já liderei projetos atuando como Scrum Master, contribuindo tanto na frente té
   <img align="center" src=https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes) />
   <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes)   />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=29A889&height=80&section=footer" style="width: 100%; height: auto; margin-top: 0;" />
