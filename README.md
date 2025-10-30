@@ -10,9 +10,9 @@ Já liderei projetos atuando como Scrum Master, contribuindo tanto na frente té
 
 ### 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=edsonjuniornarvaes&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edsonjuniornarvaes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=edsonjuniornarvaes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edsonjuniornarvaes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ### 
@@ -22,4 +22,4 @@ Já liderei projetos atuando como Scrum Master, contribuindo tanto na frente té
   <img align="center" src=https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social)](https://github.com/edsonjuniornarvaes)   />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=29A889&height=80&section=footer" style="width: 100%; height: auto; margin-top: 0;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B2A4F&height=80&section=footer" style="width: 100%; height: auto; margin-top: 0;" />
