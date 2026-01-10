@@ -1,11 +1,17 @@
 <h1 style="text-align: center;">Edson Junior</h1>
 
 <p style="margin-bottom: 10px;">
-Desenvolvedor mobile com foco em React Native, entregando soluções nativas para iOS e Android. Tenho sólida experiência em desenvolvimento web com React.js, Next.js, JavaScript e TypeScript, além de background com PHP7, Laravel e Slim.
+Sou Desenvolvedor Mobile Sênior com foco em React Native, especializado em iOS e Android, construindo aplicativos com alta performance, arquitetura escalável e experiência do usuário de excelência. Tenho também experiência em front-end web com React.js, Next.js, JavaScript e TypeScript, além de conhecimento em PHP (Laravel e Slim).
 
-Trabalho com testes automatizados utilizando Jest, monitoramento de desempenho e erros com Sentry, Datadog, Mixpanel e Kibana, além de CI/CD com Bitrise e Harness. Também atuo com Git para versionamento, crio interfaces no Figma e faço a publicação de aplicativos nas lojas.
+Ao longo da minha carreira, participei do desenvolvimento e evolução de aplicativos financeiros, superapps e plataformas corporativas, atuando em funcionalidades críticas como autenticação segura, fluxos de pagamento, integração de APIs e gestão de dados.
 
-Já liderei projetos atuando como Scrum Master, contribuindo tanto na frente técnica quanto na organização dos times.
+No dia a dia, aplico:
+• Testes automatizados com Jest para garantir qualidade e estabilidade.
+• Monitoramento e observabilidade com Sentry, Datadog, Mixpanel e Kibana.
+• CI/CD e automação de builds com Bitrise e Harness.
+• Controle de versão e colaboração com Git.
+• Design de interfaces e UX no Figma e publicação de apps nas lojas.
+• Liderança e facilitação de times como Scrum Master, promovendo organização, alinhamento técnico e entrega de valor para o negócio.
 </p>
 
 ### 
