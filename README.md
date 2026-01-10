@@ -6,12 +6,12 @@ Sou Desenvolvedor Mobile Sênior com foco em React Native, especializado em iOS 
 Ao longo da minha carreira, participei do desenvolvimento e evolução de aplicativos financeiros, superapps e plataformas corporativas, atuando em funcionalidades críticas como autenticação segura, fluxos de pagamento, integração de APIs e gestão de dados.
 
 No dia a dia, aplico:
-• Testes automatizados com Jest para garantir qualidade e estabilidade.
-• Monitoramento e observabilidade com Sentry, Datadog, Mixpanel e Kibana.
-• CI/CD e automação de builds com Bitrise e Harness.
-• Controle de versão e colaboração com Git.
-• Design de interfaces e UX no Figma e publicação de apps nas lojas.
-• Liderança e facilitação de times como Scrum Master, promovendo organização, alinhamento técnico e entrega de valor para o negócio.
+• Testes automatizados com Jest para garantir qualidade e estabilidade.<br\>
+• Monitoramento e observabilidade com Sentry, Datadog, Mixpanel e Kibana.<br\>
+• CI/CD e automação de builds com Bitrise e Harness.<br\>
+• Controle de versão e colaboração com Git.<br\>
+• Design de interfaces e UX no Figma e publicação de apps nas lojas.<br\>
+• Liderança e facilitação de times como Scrum Master, promovendo organização, alinhamento técnico e entrega de valor para o negócio.<br\>
 </p>
 
 ### 
