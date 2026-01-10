@@ -5,7 +5,7 @@ Sou Desenvolvedor Mobile Sênior com foco em React Native, especializado em iOS 
 
 Ao longo da minha carreira, participei do desenvolvimento e evolução de aplicativos financeiros, superapps e plataformas corporativas, atuando em funcionalidades críticas como autenticação segura, fluxos de pagamento, integração de APIs e gestão de dados.
 
-No dia a dia, aplico:
+No dia a dia, aplico:<br/>
 • Testes automatizados com Jest para garantir qualidade e estabilidade.<br/>
 • Monitoramento e observabilidade com Sentry, Datadog, Mixpanel e Kibana.<br/>
 • CI/CD e automação de builds com Bitrise e Harness.<br/>
