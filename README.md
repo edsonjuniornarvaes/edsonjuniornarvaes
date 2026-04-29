@@ -1,17 +1,31 @@
 <h1 style="text-align: center;">Edson Junior</h1>
 
 <p style="margin-bottom: 10px;">
-Sou Desenvolvedor Mobile Sênior com foco em React Native, especializado em iOS e Android, construindo aplicativos com alta performance, arquitetura escalável e experiência do usuário de excelência. Tenho também experiência em front-end web com React.js, Next.js, JavaScript e TypeScript, além de conhecimento em PHP (Laravel e Slim).
+Desenvolvedor Mobile Sênior especializado em React Native, criando aplicativos de alta performance para iOS e Android usados em fintechs, superapps e plataformas corporativas.
 
-Ao longo da minha carreira, participei do desenvolvimento e evolução de aplicativos financeiros, superapps e plataformas corporativas, atuando em funcionalidades críticas como autenticação segura, fluxos de pagamento, integração de APIs e gestão de dados.
 
-No dia a dia, aplico:<br/>
-• Testes automatizados com Jest para garantir qualidade e estabilidade.<br/>
-• Monitoramento e observabilidade com Sentry, Datadog, Mixpanel e Kibana.<br/>
-• CI/CD e automação de builds com Bitrise e Harness.<br/>
-• Controle de versão e colaboração com Git.<br/>
-• Design de interfaces e UX no Figma e publicação de apps nas lojas.<br/>
-• Liderança e facilitação de times como Scrum Master, promovendo organização, alinhamento técnico e entrega de valor para o negócio.<br/>
+
+Ao longo da carreira, participei da construção e evolução de produtos digitais com milhões de usuários, atuando em funcionalidades críticas como autenticação segura, fluxos de pagamento, integração de APIs e gestão de dados em tempo real.
+
+
+
+O que me diferencia:
+
+→ Foco obsessivo em performance, arquitetura escalável e experiência do usuário. 
+
+→ Cultura de qualidade: testes automatizados (Jest), monitoramento (Sentry, Datadog, Mixpanel) e CI/CD (Bitrise, Harness). 
+
+→ Visão além do código: experiência como Scrum Master, facilitando times, promovendo alinhamento técnico e conectando entregas ao valor de negócio.
+
+
+
+Stack principal: React Native, TypeScript, Redux, Expo, React.js, Next.js.
+
+Também trabalho com: PHP (Laravel), JavaScript, Figma, Git.
+
+
+
+Aberto a conversas sobre mobile, arquitetura e produto. Vamos trocar uma ideia? Me chama em algum dos meus contatos.
 </p>
 
 <div align="center">
