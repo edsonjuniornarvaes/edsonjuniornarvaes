@@ -1,22 +1,19 @@
 <h1 style="text-align: center;">Edson Junior</h1>
 
 <p style="margin-bottom: 10px;">
-Desenvolvedor Mobile Sênior especializado em React Native, criando aplicativos de alta performance para iOS e Android usados em fintechs, superapps e plataformas corporativas.
+Desenvolvedor Mobile Sênior com +6 anos construindo aplicativos React Native de alta performance para iOS e Android de fintechs e plataformas corporativas a superapps com milhões de usuários ativos.
 
 
-
-Ao longo da carreira, participei da construção e evolução de produtos digitais com milhões de usuários, atuando em funcionalidades críticas como autenticação segura, fluxos de pagamento, integração de APIs e gestão de dados em tempo real.
-
+Ao longo da carreira, participei do ciclo completo de produtos digitais críticos: autenticação segura (Auth0), fluxos financeiros (Pix, boletos, consórcio), integração com APIs complexas e arquitetura escalável com MVVM. Trabalhei em apps como PJBank, Gruvi, Gazin Consórcio e Minha Navex.
 
 
 O que me diferencia:
 
-→ Foco obsessivo em performance, arquitetura escalável e experiência do usuário. 
+→ Performance e qualidade como cultura: testes (Jest), observabilidade (Sentry, Datadog, Mixpanel) e CI/CD (Bitrise, Harness) em todos os projetos.
 
-→ Cultura de qualidade: testes automatizados (Jest), monitoramento (Sentry, Datadog, Mixpanel) e CI/CD (Bitrise, Harness). 
+→ Visão além do código: passei pelo papel de Scrum Master — sei facilitar times, priorizar com negócio e transformar requisito em entrega real.
 
-→ Visão além do código: experiência como Scrum Master, facilitando times, promovendo alinhamento técnico e conectando entregas ao valor de negócio.
-
+→ Comunicação técnica: produzo conteúdo sobre mobile e desenvolvimento para +1.700 seguidores no LinkedIn.
 
 
 Stack principal: React Native, TypeScript, Redux, Expo, React.js, Next.js.
@@ -24,8 +21,7 @@ Stack principal: React Native, TypeScript, Redux, Expo, React.js, Next.js.
 Também trabalho com: PHP (Laravel), JavaScript, Figma, Git.
 
 
-
-Aberto a conversas sobre mobile, arquitetura e produto. Vamos trocar uma ideia? Me chama em algum dos meus contatos.
+Aberto a conversas sobre arquitetura mobile, produto e oportunidades sênior. Me chama no inbox.
 </p>
 
 <div align="center">
