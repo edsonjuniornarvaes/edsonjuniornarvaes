@@ -4,7 +4,7 @@
 Desenvolvedor Mobile Sênior com +6 anos construindo aplicativos React Native de alta performance para iOS e Android de fintechs e plataformas corporativas a superapps com milhões de usuários ativos.
 
 
-Ao longo da carreira, participei do ciclo completo de produtos digitais críticos: autenticação segura (Auth0), fluxos financeiros (Pix, boletos, consórcio), integração com APIs complexas e arquitetura escalável com MVVM. Trabalhei em apps como PJBank, Gruvi, Gazin Consórcio e Minha Navex.
+Ao longo da carreira, participei do ciclo completo de produtos digitais críticos: autenticação segura (Auth0), fluxos financeiros (Pix, boletos, consórcio), integração com APIs complexas e arquitetura escalável com MVVM. Trabalhei em apps como PJBank, Gruvi, Gazin Consórcio, Mont B2B e Minha Navex.
 
 
 O que me diferencia:
@@ -13,15 +13,13 @@ O que me diferencia:
 
 → Visão além do código: passei pelo papel de Scrum Master — sei facilitar times, priorizar com negócio e transformar requisito em entrega real.
 
-→ Comunicação técnica: produzo conteúdo sobre mobile e desenvolvimento para +1.700 seguidores no LinkedIn.
-
 
 Stack principal: React Native, TypeScript, Redux, Expo, React.js, Next.js.
 
 Também trabalho com: PHP (Laravel), JavaScript, Figma, Git.
 
 
-Aberto a conversas sobre arquitetura mobile, produto e oportunidades sênior. Me chama no inbox.
+Aberto a conversas sobre arquitetura mobile e produto. Me chama pra bater um papo.
 </p>
 
 <div align="center">
