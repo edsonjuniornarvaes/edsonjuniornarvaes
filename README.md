@@ -10,9 +10,7 @@ Além do ecossistema mobile, minha bagagem inclui desenvolvimento de plataformas
 Práticas e engenharia no dia a dia:
 
 • Qualidade e arquitetura: foco em testes unitários (Jest), manutenibilidade e consumo eficiente de APIs via camadas intermediárias (BFF).
-
 • Observabilidade e monitoramento: acompanhamento de métricas de uso, performance e erros via Grafana, Sentry, Datadog, Mixpanel e Kibana.
-
 • Automação e publicação: configuração e manutenção de esteiras de CI/CD (GitHub Actions/CI, Bitrise, Harness) e suporte contínuo para iOS e Android.
 
 Stack principal: React Native, TypeScript, Expo, Redux, React.js, Next.js.
