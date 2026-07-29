@@ -1,25 +1,23 @@
 <h1 style="text-align: center;">Edson Junior</h1>
 
 <p style="margin-bottom: 10px;">
-Desenvolvedor Mobile Sênior com +6 anos construindo aplicativos React Native de alta performance para iOS e Android de fintechs e plataformas corporativas a superapps com milhões de usuários ativos.
+Desenvolvedor Mobile Sênior focado na arquitetura e evolução de aplicativos utilizando React Native, Expo, TypeScript e ecossistema nativo (iOS e Android). Possuo trajetória em engenharia de software com experiência em produtos de fintech, banking, telecom, e-commerce e superapps.
 
+Minha atuação abrange o ciclo completo de desenvolvimento de software: desde a construção de interfaces até a estruturação de arquiteturas escaláveis (MVVM), integração com BFF (Backend For Frontend), fluxos financeiros críticos (Pix, boletos, pagamentos, consórcio), autenticação segura (Auth0) e publicação nas lojas.
 
-Ao longo da carreira, participei do ciclo completo de produtos digitais críticos: autenticação segura (Auth0), fluxos financeiros (Pix, boletos, consórcio), integração com APIs complexas e arquitetura escalável com MVVM. Trabalhei em apps como PJBank, Gruvi, Gazin Consórcio, Mont B2B e Minha Navex.
+Além do ecossistema mobile, minha bagagem inclui desenvolvimento de plataformas web (React.js, Next.js, PHP/Laravel) e atuação como Scrum Master, o que me permite conectar a perspectiva técnica do código aos objetivos estratégicos de negócio e facilitação do time.
 
+Práticas e engenharia no dia a dia:
 
-O que me diferencia:
+• Qualidade e arquitetura: foco em testes unitários (Jest), manutenibilidade e consumo eficiente de APIs via camadas intermediárias (BFF).
 
-→ Performance e qualidade como cultura: testes (Jest), observabilidade (Sentry, Datadog, Mixpanel) e CI/CD (Bitrise, Harness) em todos os projetos.
+• Observabilidade e monitoramento: acompanhamento de métricas de uso, performance e erros via Grafana, Sentry, Datadog, Mixpanel e Kibana.
 
-→ Visão além do código: passei pelo papel de Scrum Master — sei facilitar times, priorizar com negócio e transformar requisito em entrega real.
+• Automação e publicação: configuração e manutenção de esteiras de CI/CD (GitHub Actions/CI, Bitrise, Harness) e suporte contínuo para iOS e Android.
 
+Stack principal: React Native, TypeScript, Expo, Redux, React.js, Next.js.
 
-Stack principal: React Native, TypeScript, Redux, Expo, React.js, Next.js.
-
-Também trabalho com: PHP (Laravel), JavaScript, Figma, Git.
-
-
-Aberto a conversas sobre arquitetura mobile e produto. Me chama pra bater um papo.
+Outras tecnologias e ferramentas: PHP (Laravel), Node.js, Jest, Grafana, Sentry, Git, Figma.
 </p>
 
 <div align="center">
