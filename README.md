@@ -1,21 +1,28 @@
 <h1 style="text-align: center;">Edson Junior</h1>
 
 <p style="margin-bottom: 10px;">
-Desenvolvedor Mobile Sênior focado na arquitetura e evolução de aplicativos utilizando React Native, Expo, TypeScript e ecossistema nativo (iOS e Android). Possuo trajetória em engenharia de software com experiência em produtos de fintech, banking, telecom, e-commerce e superapps.
+Desenvolvedor Mobile Sênior focado na arquitetura e evolução de aplicativos utilizando React Native, Expo, TypeScript e ecossistema nativo (iOS e Android). Possuo trajetória em engenharia de software com experiência em produtos de fintech, # Edson Junior
 
-Minha atuação abrange o ciclo completo de desenvolvimento de software: desde a construção de interfaces até a estruturação de arquiteturas escaláveis (MVVM), integração com BFF (Backend For Frontend), fluxos financeiros críticos (Pix, boletos, pagamentos, consórcio), autenticação segura (Auth0) e publicação nas lojas.
+Senior Mobile Engineer focused on building scalable and high-performance mobile applications with React Native, TypeScript, Expo, and native iOS & Android technologies.
 
-Além do ecossistema mobile, minha bagagem inclui desenvolvimento de plataformas web (React.js, Next.js, PHP/Laravel) e atuação como Scrum Master, o que me permite conectar a perspectiva técnica do código aos objetivos estratégicos de negócio e facilitação do time.
+I have experience building products across fintech, banking, telecom, e-commerce, and superapp environments, working across the full software development lifecycle — from architecture and implementation to testing, observability, CI/CD, and production releases.
 
-Práticas e engenharia no dia a dia:
+My work includes scalable MVVM architectures, BFF integrations, critical financial flows such as Pix, payments and billing, secure authentication with Auth0, and native integrations on both iOS and Android.
 
-• Qualidade e arquitetura: foco em testes unitários (Jest), manutenibilidade e consumo eficiente de APIs via camadas intermediárias (BFF). </br>
-• Observabilidade e monitoramento: acompanhamento de métricas de uso, performance e erros via Grafana, Sentry, Datadog, Mixpanel e Kibana. </br>
-• Automação e publicação: configuração e manutenção de esteiras de CI/CD (GitHub Actions/CI, Bitrise, Harness) e suporte contínuo para iOS e Android. </br>
+### Engineering
 
-Stack principal: React Native, TypeScript, Expo, Redux, React.js, Next.js.
+- Mobile: React Native, TypeScript, Expo, Redux
+- Architecture: MVVM, BFF, scalable application design
+- Native: iOS, Android, native modules and integrations
+- Testing: Jest, unit testing, edge-case coverage
+- Observability: Sentry, Datadog, Mixpanel, Kibana, Grafana
+- CI/CD: GitHub Actions, Bitrise, Harness
+- Web: React.js, Next.js, Node.js, PHP/Laravel
+- Tools: Git, Docker, Figma
 
-Outras tecnologias e ferramentas: PHP (Laravel), Node.js, Jest, Grafana, Sentry, Git, Figma.
+I also have experience as a Scrum Master, working closely with engineering teams to connect technical decisions with product and business goals.
+
+Currently exploring open-source engineering, software challenges, and AI-assisted software evaluation.
 </p>
 
 <div align="center">
