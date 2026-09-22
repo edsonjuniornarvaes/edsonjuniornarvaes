@@ -1,7 +1,6 @@
 <h1 style="text-align: center;">Edson Junior</h1>
 
 <p style="margin-bottom: 10px;">
-Desenvolvedor Mobile Sênior focado na arquitetura e evolução de aplicativos utilizando React Native, Expo, TypeScript e ecossistema nativo (iOS e Android). Possuo trajetória em engenharia de software com experiência em produtos de fintech, # Edson Junior
 
 Senior Mobile Engineer focused on building scalable and high-performance mobile applications with React Native, TypeScript, Expo, and native iOS & Android technologies.
 
