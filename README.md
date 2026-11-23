@@ -16,19 +16,7 @@ I enjoy working on complex engineering problems, understanding existing codebase
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" height="155" width="40%" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="75" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" height="155" width="40%" />
-</p>
-
 ## Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonjuniornarvaes&theme=dark&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edsonjuniornarvaes&style=flat-square&color=3fb950&label=PROFILE+VIEWS" />
