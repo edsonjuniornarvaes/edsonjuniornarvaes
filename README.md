@@ -1,11 +1,10 @@
 # Edson Junior
 
 <p align="center">
-  <strong>Senior Mobile Engineer | React Native & TypeScript | iOS & Android | Fintech & Payments</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/edsonjuniornarvaes/">LinkedIn</a> ·
+  <strong>Senior Mobile Engineer</strong><br/>
+  React Native · TypeScript · iOS · Android · Fintech & Payments
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/edsonjuniornarvaes/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/edsonjuniornarvaes">GitHub</a>
 </p>
 
@@ -21,42 +20,40 @@ My experience includes scalable MVVM architectures, BFF integrations, critical f
 
 My main stack includes React Native, TypeScript, Expo, Redux, React.js, and Next.js. I also have experience with Node.js, PHP/Laravel, Jest, Docker, GitHub Actions, Bitrise, Harness, Sentry, Datadog, Mixpanel, and Kibana.
 
-I enjoy working on complex engineering problems, understanding existing codebases, improving software quality, and building reliable solutions that scale.
+I enjoy working on complex engineering problems, improving software quality, and building reliable solutions that scale.
+
+---
+
+## Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,swift,kotlin,redux,nodejs,nextjs,php,laravel,docker,git&theme=dark" />
+</p>
 
 ---
 
 ## GitHub Overview
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonjuniornarvaes&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=8b949e" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonjuniornarvaes&hide_border=true&background=0D1117&stroke=30363D&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </div>
 
----
-
-## WakaTime · Coding Activity
+<br/>
 
 <div align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsonjuniornarvaes&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
+  <img src="https://komarev.com/ghpvc/?username=edsonjuniornarvaes&style=flat-square&color=3FB950&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/edsonjuniornarvaes?style=flat-square&color=3FB950&label=FOLLOWERS" />
 </div>
 
-<!--START_SECTION:waka-->
+<br/>
 
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=edsonjuniornarvaes&style=flat-square&color=3fb950&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/edsonjuniornarvaes?style=flat-square&color=3fb950&label=FOLLOWERS" />
-  <br /><br />
-  <sub>Building reliable software. Learning continuously. Engineering with purpose.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+<p align="center">
+  <i>Building reliable software. Learning continuously. Engineering with purpose.</i>
+</p>
