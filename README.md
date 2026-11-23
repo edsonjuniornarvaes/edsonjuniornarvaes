@@ -1,6 +1,6 @@
-# Edson Junior
+ <div align="center">
 
-<div align="center">
+# EDSON JUNIOR
 
 ### <span style="color:#20E6A5">Senior Mobile Engineer</span>
 
@@ -18,7 +18,7 @@ Building digital experiences with clean architecture, performance and great user
 
 ## `// ABOUT ME`
 
-I'm a Senior Mobile Engineer focused on building scalable, reliable, and high-quality mobile applications.
+Senior Mobile Engineer focused on building scalable, reliable, and high-quality mobile applications.
 
 - 📱 **Mobile:** React Native, Expo, TypeScript, Swift, Kotlin
 - 💻 **Frontend:** React, Next.js
@@ -35,19 +35,19 @@ Currently working at **Superlógica**, developing financial products and mobile 
 
 **Superlógica** · Senior Mobile Engineer
 
-`Apr 2025 — Present`
+<code>Apr 2025 — Present</code>
 
 Financial applications, Auth0 authentication, Pix Automático, corporate authorization workflows, mobile architecture and CI/CD.
 
 **Superlógica** · Mobile Developer
 
-`Jan 2024 — Apr 2025`
+<code>Jan 2024 — Apr 2025</code>
 
 Gruvi superapp: rent payments, shared-space reservations and real-time chat.
 
 **ecode** · Mobile Developer / Scrum Master
 
-`Jun 2021 — Jan 2024`
+<code>Jun 2021 — Jan 2024</code>
 
 Mobile products for fintech, telecommunications and business management.
 
@@ -55,12 +55,21 @@ Mobile products for fintech, telecommunications and business management.
 
 ## `// CODING ACTIVITY`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/POWERED_BY-WAKATIME-20E6A5?style=flat-square&logo=wakatime&logoColor=black" alt="WakaTime"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/CODING_ACTIVITY-20E6A5?style=for-the-badge&logo=git&logoColor=black" alt="Coding Activity"/>
+
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<div align="center">
+
+<!-- Replace with your WakaTime embeddable chart URL after generating it at https://wakatime.com/share -->
+<!-- <img src="YOUR_WAKATIME_EMBEDDABLE_CHART_URL" alt="WakaTime Coding Activity" width="100%"/> -->
+
+</div>
 
 ---
 
@@ -68,9 +77,9 @@ Mobile products for fintech, telecommunications and business management.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=20E6A5&text_color=C9D1D9&icon_color=20E6A5&border_color=20E6A5" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=20E6A5&text_color=C9D1D9&border_color=20E6A5" alt="Top Languages"/>
 
 </div>
 
@@ -80,6 +89,6 @@ Mobile products for fintech, telecommunications and business management.
 
 ### <span style="color:#20E6A5">BUILDING THE FUTURE, ONE COMMIT AT A TIME.</span>
 
-<sub>Edson Junior · Software Engineer</sub>
+<sub>EDSON JUNIOR · SOFTWARE ENGINEER</sub>
 
 </div>
