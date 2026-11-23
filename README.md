@@ -19,8 +19,9 @@ I enjoy working on complex engineering problems, understanding existing codebase
 ## GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" height="155" width="40%" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="75" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" height="155" width="40%" />
 </p>
 
 ## Contribution Activity
