@@ -4,7 +4,6 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Every day at 03:00 BRT (06:00 UTC)
     - cron: "0 6 * * *"
 
 permissions:
@@ -21,16 +20,13 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          # Display
           SHOW_TITLE: true
           SHOW_TIME: true
           SHOW_TOTAL: false
 
-          # Statistics
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
 
-          # Visual
           BLOCKS: "░▒▓█"
           CODE_LANG: txt
           COMMIT_MESSAGE: "chore: update coding activity"
