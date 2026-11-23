@@ -1,32 +1,24 @@
-# Edson Junior
 
-**Senior Mobile Engineer** · React Native · TypeScript · iOS & Android
-
-Building scalable mobile experiences and reliable software products.
-
-Experienced in fintech, banking, telecom, e-commerce, and superapp ecosystems. Focused on mobile architecture, performance, native integrations, and production reliability.
-
-### Tech Stack
-
-**Mobile:** React Native · TypeScript · Expo · Redux · Swift · Kotlin
-
-**Architecture:** MVVM · BFF · Modular Architecture
-
-**Backend:** Node.js · React · Next.js · PHP · Laravel
-
-**Quality & Delivery:** Jest · Sentry · Datadog · GitHub Actions · Bitrise · Harness
-
-### Engineering
-
-Scalable mobile architecture, financial integrations (Pix, payments and billing), native iOS and Android development, authentication, testing, and production observability.
-
-### Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
+## 📊 GitHub Statistics
 
 <p align="center">
-  <sub>Engineering with purpose. Building for scale.</sub>
+  <a href="https://github.com/edsonjuniornarvaes">
+    <img height="165"
+      src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/edsonjuniornarvaes">
+    <img height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/edsonjuniornarvaes">
+    <img
+      src="https://streak-stats.demolab.com/?user=edsonjuniornarvaes&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Engineering with purpose. Building for scale.</i>
 </p>
