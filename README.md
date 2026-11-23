@@ -1,36 +1,53 @@
 # Edson Junior
 
-### Senior Mobile Engineer | React Native · TypeScript · iOS & Android
+**Senior Mobile Engineer | React Native · TypeScript · iOS & Android**
 
-Building scalable mobile applications and reliable software products.
+Designing and building scalable mobile experiences with a focus on architecture, performance and reliability.
 
-Experienced in fintech, banking, e-commerce, and superapp ecosystems, with a focus on mobile architecture, performance, native integrations, and software quality.
+Experienced in fintech, banking, e-commerce and superapp ecosystems, delivering production-ready mobile applications and complex integrations.
 
-**Tech Stack**
+### Tech Stack
 
-`React Native` `TypeScript` `Expo` `Redux` `Swift` `Kotlin` `Node.js` `Jest` `Sentry` `Datadog`
+**Mobile**  
+React Native · TypeScript · Expo · Redux · Swift · Kotlin
 
-**Engineering**
+**Backend & Web**  
+Node.js · React.js · Next.js · PHP · Laravel
 
-`MVVM` `Modular Architecture` `BFF` `CI/CD` `Native Integrations` `Observability`
+**Architecture & Engineering**  
+MVVM · Modular Architecture · BFF · Native Integrations · CI/CD
 
----
+**Quality & Observability**  
+Jest · Sentry · Datadog · Mixpanel · Kibana · GitHub Actions
+
+### Engineering Focus
+
+- Scalable mobile architecture and application performance
+- Financial integrations (Pix, payments and billing)
+- Native iOS and Android development
+- Secure authentication and API integrations
+- Testing, observability and production reliability
+- Technical collaboration and engineering best practices
 
 ### GitHub Statistics
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&hide_border=true&theme=transparent&langs_count=5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&hide_border=true&langs_count=6" />
 </p>
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edsonjuniornarvaes&hide_border=true" width="100%" />
+</p>
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/edsonjuniornarvaes) · [Portfolio](https://edsonjuniordev.com.br) · [Email](mailto:edsonjunior.narvaes@gmail.com)
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edsonjuniornarvaes">LinkedIn</a> ·
-  <a href="https://edsonjunior.dev.com.br">Portfolio</a> ·
-  <a href="mailto:edsonjunior.narvaes@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <sub>Engineering with purpose. Building for scale.</sub>
+  <i>Engineering with purpose. Building for scale.</i>
 </p>
