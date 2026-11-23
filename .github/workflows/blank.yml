@@ -1,16 +1,36 @@
+
 name: Waka Readme
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    # Every day at 03:00 BRT (06:00 UTC)
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Coding Activity
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Display
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+
+          # Statistics
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+
+          # Visual
+          BLOCKS: "░▒▓█"
+          CODE_LANG: txt
+          COMMIT_MESSAGE: "chore: update coding activity"
