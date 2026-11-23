@@ -1,52 +1,39 @@
-# Edson Junior
+<h1 style="text-align: center;">Edson Junior</h1>
 
-### Senior Mobile Engineer · React Native · TypeScript
+<p style="margin-bottom: 10px;">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/edsonjuniornarvaes/">LinkedIn</a> ·
-  <a href="https://github.com/edsonjuniornarvaes">GitHub</a> ·
-  <a href="mailto:">Email</a>
+Senior Mobile Engineer focused on building scalable and high-performance mobile applications with React Native, TypeScript, Expo, and native iOS & Android technologies.
+
+I have experience building products across fintech, banking, telecom, e-commerce, and superapp environments, working across the full software development lifecycle — from architecture and implementation to testing, observability, CI/CD, and production releases.
+
+My work includes scalable MVVM architectures, BFF integrations, critical financial flows such as Pix, payments and billing, secure authentication with Auth0, and native integrations on both iOS and Android.
+
+### Engineering
+
+- Mobile: React Native, TypeScript, Expo, Redux
+- Architecture: MVVM, BFF, scalable application design
+- Native: iOS, Android, native modules and integrations
+- Testing: Jest, unit testing, edge-case coverage
+- Observability: Sentry, Datadog, Mixpanel, Kibana, Grafana
+- CI/CD: GitHub Actions, Bitrise, Harness
+- Web: React.js, Next.js, Node.js, PHP/Laravel
+- Tools: Git, Docker, Figma
+
+I also have experience as a Scrum Master, working closely with engineering teams to connect technical decisions with product and business goals.
+
+Currently exploring open-source engineering, software challenges, and AI-assisted software evaluation.
 </p>
 
----
-
-### About
-
-Senior Mobile Engineer focused on building scalable, reliable, and high-performance applications.
-
-Experienced in React Native, TypeScript, native iOS and Android development, software architecture, and fintech solutions.
-
-Currently working with mobile architecture, financial products, performance optimization, and engineering best practices.
-
-### Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,swift,kotlin,nodejs,redux,nextjs,php,laravel,docker,git" />
-</p>
-
-### GitHub Overview
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edsonjuniornarvaes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes" />
+  <a href="https://github.com/edsonjuniornarvaes">
+    <img src="https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social" />
+  </a>
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonjuniornarvaes&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=888888" />
-</p>
-
-### WakaTime
-
-<p align="center">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/wakatime?username=edsonjuniornarvaes&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
-</p>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
----
-
-<p align="center">
-  <i>Building great products through clean code and continuous learning.</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B2A4F&height=80&section=footer" style="width: 100%; height: auto; margin-top: 0;" />
