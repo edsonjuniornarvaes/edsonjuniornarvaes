@@ -4,51 +4,23 @@
 
 Building scalable mobile experiences and reliable software products.
 
-I’m a Senior Mobile Engineer experienced in building products across **fintech, banking, telecom, e-commerce, and superapp ecosystems**.
+Experienced in fintech, banking, telecom, e-commerce, and superapp ecosystems. Focused on mobile architecture, performance, native integrations, and production reliability.
 
-My focus is on scalable mobile architecture, native integrations, application performance, and engineering quality — from technical design to production delivery.
+### Tech Stack
 
----
+**Mobile:** React Native · TypeScript · Expo · Redux · Swift · Kotlin
 
-### TECH STACK
+**Architecture:** MVVM · BFF · Modular Architecture
 
-**Mobile**  
-React Native · TypeScript · Expo · Redux · Swift · Kotlin
+**Backend:** Node.js · React · Next.js · PHP · Laravel
 
-**Architecture**  
-MVVM · BFF · Modular Architecture · API Integration
+**Quality & Delivery:** Jest · Sentry · Datadog · GitHub Actions · Bitrise · Harness
 
-**Backend & Web**  
-Node.js · React · Next.js · PHP · Laravel
+### Engineering
 
-**Quality & DevOps**  
-Jest · Sentry · Datadog · Mixpanel · Grafana · GitHub Actions · Bitrise · Harness
+Scalable mobile architecture, financial integrations (Pix, payments and billing), native iOS and Android development, authentication, testing, and production observability.
 
----
-
-### ENGINEERING EXPERIENCE
-
-- Scalable mobile application architecture and maintainable codebases.
-- Critical financial flows, including Pix, payments, and billing.
-- Native iOS and Android integrations.
-- Secure authentication and Auth0 integrations.
-- Testing, observability, CI/CD, and production releases.
-
-I also have experience as a Scrum Master, connecting engineering teams, technical decisions, and product goals.
-
-### CURRENTLY EXPLORING
-
-Open Source · System Design · AI-assisted Engineering · Developer Experience
-
----
-
-### GITHUB LANGUAGES
-
-<p align="center">
-  <img src="./github-metrics.svg" width="75%" alt="GitHub Languages" />
-</p>
-
-### CODING ACTIVITY
+### Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -57,6 +29,4 @@ Open Source · System Design · AI-assisted Engineering · Developer Experience
 
 <p align="center">
   <sub>Engineering with purpose. Building for scale.</sub>
-  <br/>
-  <sub>Edson Junior · Senior Mobile Engineer</sub>
 </p>
