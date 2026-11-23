@@ -1,96 +1,59 @@
-# Edson Junior 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Programming computer illustration" width="400" align="right">
 
-### Senior Mobile Engineer · React Native · TypeScript · iOS & Android
+# Edson Junior
 
-I build scalable, reliable, and high-quality mobile applications. Passionate about mobile architecture, performance, clean code, and creating great user experiences.
+**Senior Mobile Engineer**
 
----
+<p align="left">
+  I'm a Senior Mobile Engineer focused on building scalable and high-quality mobile applications. I work primarily with React Native and TypeScript, with experience in native iOS and Android development.
+</p>
 
-## 👨‍💻 About Me
+<p align="left">
+  📱 <strong>Mobile:</strong> React Native, Expo, TypeScript, Swift, Kotlin
+</p>
 
-- Senior Mobile Engineer with experience in fintech, real estate, telecommunications, and e-commerce.
-- Specialized in React Native and TypeScript, with native iOS and Android experience.
-- Experienced in MVVM architecture, state management, authentication, and financial integrations.
-- Focused on code quality, performance, scalability, and engineering best practices.
-- Open to international remote opportunities and freelance projects.
+<p align="left">
+  💻 <strong>Other technologies:</strong> React, Next.js, Node.js, PHP, Laravel
+</p>
 
----
+<p align="left">
+  🛠️ <strong>Tools:</strong> Redux, MVVM, Git, Jest, Docker, Bitrise, Auth0, MongoDB
+</p>
 
-## 🚀 Tech Stack
+<p align="left">
+  💼 <strong>Currently:</strong> Senior Mobile Engineer at Superlógica, working on fintech products and mobile architecture.
+</p>
 
-**Mobile Development**
-
-React Native · TypeScript · Expo · Swift · Kotlin
-
-**Frontend & Backend**
-
-React · Next.js · Node.js · PHP · Laravel
-
-**Architecture & Data**
-
-MVVM · Redux · REST APIs · MongoDB · Supabase
-
-**Tools & Services**
-
-Git · Jest · Docker · Auth0 · Bitrise · Harness · Datadog · Sentry
-
----
-
-## 💼 Experience
-
-**Senior Mobile Engineer — Superlógica**  
-*April 2025 – Present*
-
-- Developing and evolving financial mobile applications.
-- Working with Auth0 authentication and corporate authorization workflows.
-- Building financial features, including Pix Automático.
-- Improving architecture, performance, monitoring, and CI/CD pipelines.
-
-**Mobile Developer — Superlógica**  
-*January 2024 – April 2025*
-
-- Developed features for Gruvi, a condominium superapp.
-- Worked on rent payments, shared-space reservations, and real-time chat.
-- Contributed to mobile architecture and application evolution.
-
-**Mobile Developer — ecode**  
-*June 2021 – January 2024*
-
-- Built applications for fintech, telecommunications, and business management.
-- Worked with React Native, API integrations, push notifications, and app releases.
-- Also contributed to Scrum practices and technical coordination.
+<br clear="all">
 
 ---
 
 ## ⏱️ Coding Activity
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" alt="Git" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=default&hide_border=true&layout=compact&langs_count=8&display_format=time" alt="WakaTime Coding Activity" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Most Used Languages">
 </p>
 
 ---
 
-## 📫 Connect with me
+## 💌 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/edsonjuniornarvaes/">LinkedIn</a> ·
-  <a href="https://github.com/edsonjuniornarvaes">GitHub</a> ·
-  <a href="mailto:edsonjunior.narvaes@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <i>Building better mobile experiences, one commit at a time.</i>
+<p align="left">
+  <a href="mailto:edsonjunior.narvaes@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/edsonjuniornarvaes/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
