@@ -2,12 +2,9 @@
 name: GitHub Metrics
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -23,12 +20,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: edsonjuniornarvaes
 
+          filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
-
-          config_timezone: America/Sao_Paulo
+          base: ""
 
           plugin_languages: yes
-          plugin_languages_limit: 6
+          plugin_languages_limit: 5
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
+          plugin_languages_threshold: 1%
+          plugin_languages_other: yes
