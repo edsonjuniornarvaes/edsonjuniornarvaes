@@ -1,157 +1,125 @@
 # Edson Junior
 
-### Senior Mobile Engineer · React Native · TypeScript · iOS & Android
+**Senior Mobile Engineer · React Native · TypeScript · iOS & Android**
 
-Building scalable mobile experiences and reliable software products.
+I design and build reliable mobile applications, scalable architectures, and software products that solve real-world problems.
 
-Experienced in fintech, banking, telecom, e-commerce, and superapp ecosystems. Focused on mobile architecture, performance, native integrations, and production reliability.
+[LinkedIn](https://www.linkedin.com/in/edsonjuniornarvaes) · [Portfolio](https://edsonjunior.dev.com.br) · [Email](mailto:edsonjunior.narvaes@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a Senior Mobile Engineer passionate about building high-quality mobile applications and solving complex engineering problems.
+I'm a Senior Mobile Engineer with experience building and evolving mobile products across fintech, banking, e-commerce, telecom, and superapp ecosystems.
 
-I work across the entire software development lifecycle, from architecture and implementation to testing, observability, CI/CD, and production releases.
+My work goes beyond feature implementation. I focus on software architecture, engineering quality, application performance, reliability, and maintainable solutions.
 
-My experience includes:
+Throughout my career, I've worked on:
 
 - Designing scalable mobile architectures using MVVM and modular principles.
-- Building financial features involving Pix, payments, billing, and investment flows.
 - Developing cross-platform applications with React Native and TypeScript.
+- Building financial experiences involving Pix, payments, billing, and account management.
 - Integrating native iOS and Android capabilities.
-- Implementing secure authentication and authorization flows.
-- Improving application performance, reliability, and maintainability.
+- Implementing authentication and authorization flows.
+- Improving application quality through automated testing and observability.
 - Collaborating with product, design, backend, and engineering teams.
 
-I also have experience with backend development and agile methodologies, which helps me understand software products beyond the mobile layer.
+I enjoy understanding complex systems, improving existing codebases, and turning technical challenges into reliable products.
 
 ---
 
-## 🛠️ Tech Stack
+## Engineering Stack
 
-### Mobile Development
+**Mobile Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,swift,kotlin,androidstudio,apple" />
-</p>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-- React Native
-- TypeScript & JavaScript
-- Expo
-- Redux Toolkit
-- Native Modules
-- Swift & Kotlin
-- iOS & Android
+**Architecture & State Management**
 
-### Architecture & Engineering
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Architecture](https://img.shields.io/badge/MVVM-263238?style=flat-square)
+![BFF](https://img.shields.io/badge/BFF-263238?style=flat-square)
+![Software Architecture](https://img.shields.io/badge/Modular_Architecture-263238?style=flat-square)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,nodejs,react,nextjs" />
-</p>
+**Backend & Infrastructure**
 
-- MVVM Architecture
-- Backend for Frontend (BFF)
-- Modular Architecture
-- Clean Code & SOLID
-- REST APIs
-- System Integration
-- Software Architecture
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Backend & Infrastructure
+**Quality, Delivery & Observability**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,docker,git,github" />
-</p>
-
-- Node.js
-- PHP & Laravel
-- Docker
-- API Integration
-- Authentication & Authorization
-- CI/CD Pipelines
-
-### Quality & Observability
-
-- Jest
-- Sentry
-- Datadog
-- Mixpanel
-- Kibana
-- Bitrise
-- Harness
-- GitHub Actions
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Bitrise](https://img.shields.io/badge/Bitrise-683DFF?style=flat-square&logo=bitrise&logoColor=white)
 
 ---
 
-## 🏦 Engineering Experience
+## Selected Engineering Domains
 
-**Fintech & Banking**
-- Financial applications and digital banking experiences.
-- Pix, payment processing, billing, and financial workflows.
-- Secure authentication and authorization.
-- Third-party service integrations.
-
-**Mobile Architecture**
-- Scalable MVVM architecture.
-- Cross-platform development.
-- Native iOS and Android integrations.
-- Performance and maintainability improvements.
-
-**Product Engineering**
-- Real-time communication and chat systems.
-- E-commerce and superapp ecosystems.
-- API integrations and backend communication.
-- Collaboration across multidisciplinary teams.
+| Domain | Focus |
+|---|---|
+| Mobile Engineering | Cross-platform development, native integrations, performance |
+| Fintech & Banking | Pix, payments, billing, authentication, financial workflows |
+| Software Architecture | MVVM, modularization, BFF, maintainability |
+| Engineering Quality | Automated testing, observability, reliability |
+| Delivery & Infrastructure | CI/CD, release management, monitoring |
 
 ---
 
-## 🚀 Featured Projects
+## Professional Experience
 
-### Conta Superlógica
-Mobile banking and financial platform focused on critical payment and authorization flows.
+**Senior Mobile Engineer — Superlógica**
 
-### Gruvi
-Superapp ecosystem with rental payments, reservations, and real-time chat functionality.
+Building and evolving mobile banking experiences, with a focus on architecture, security, performance, and critical financial features.
 
-### Minha Navex
-Mobile application focused on digital services and financial solutions.
+**Mobile Engineer — Gruvi**
+
+Developed mobile features for a superapp ecosystem, including rental payments, reservations, real-time communication, and backend integrations.
+
+**Scrum Master & Mobile Engineer — ecode**
+
+Combined mobile engineering with agile team leadership, technical discussions, architecture decisions, and cross-functional collaboration.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/edsonjuniornarvaes">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" />
-  </a>
-  <a href="https://github.com/edsonjuniornarvaes">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonjuniornarvaes&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=edsonjuniornarvaes&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=edsonjuniornarvaes&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-<p>
+I'm always interested in connecting with engineers, technology leaders, and teams building meaningful products.
+
+<p align="left">
   <a href="https://www.linkedin.com/in/edsonjuniornarvaes">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://edsonjunior.dev.com.br">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:edsonjunior.narvaes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>Engineering with purpose. Building for scale.</i>
+  <sub>Building reliable software. Engineering with purpose.</sub>
 </p>
