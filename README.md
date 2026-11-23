@@ -1,39 +1,75 @@
-<h1 style="text-align: center;">Edson Junior</h1>
+# Edson Junior
 
-<p style="margin-bottom: 10px;">
+**Senior Mobile Engineer** · React Native · TypeScript · iOS & Android
 
-Senior Mobile Engineer focused on building scalable and high-performance mobile applications with React Native, TypeScript, Expo, and native iOS & Android technologies.
+Building scalable mobile experiences and engineering reliable products.
 
-I have experience building products across fintech, banking, telecom, e-commerce, and superapp environments, working across the full software development lifecycle — from architecture and implementation to testing, observability, CI/CD, and production releases.
+I’m a Senior Mobile Engineer with experience designing, developing, and maintaining production-grade applications across fintech, banking, telecom, e-commerce, and superapp environments.
 
-My work includes scalable MVVM architectures, BFF integrations, critical financial flows such as Pix, payments and billing, secure authentication with Auth0, and native integrations on both iOS and Android.
+My focus is on mobile architecture, performance, maintainability, native integrations, and delivering reliable software at scale.
 
-### Engineering
+I enjoy working across the entire engineering lifecycle — from technical design and implementation to testing, observability, CI/CD, and production releases.
 
-- Mobile: React Native, TypeScript, Expo, Redux
-- Architecture: MVVM, BFF, scalable application design
-- Native: iOS, Android, native modules and integrations
-- Testing: Jest, unit testing, edge-case coverage
-- Observability: Sentry, Datadog, Mixpanel, Kibana, Grafana
-- CI/CD: GitHub Actions, Bitrise, Harness
-- Web: React.js, Next.js, Node.js, PHP/Laravel
-- Tools: Git, Docker, Figma
+---
 
-I also have experience as a Scrum Master, working closely with engineering teams to connect technical decisions with product and business goals.
+### ENGINEERING
 
-Currently exploring open-source engineering, software challenges, and AI-assisted software evaluation.
-</p>
+**Mobile Engineering**
+- React Native, TypeScript, Expo, Redux
+- Native iOS & Android integrations
+- Native modules and platform-specific capabilities
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edsonjuniornarvaes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edsonjuniornarvaes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
+**Architecture & Backend**
+- MVVM, BFF, modular architecture
+- Node.js, React.js, Next.js
+- PHP, Laravel
+
+**Quality & Reliability**
+- Jest, unit testing, edge-case coverage
+- Sentry, Datadog, Mixpanel
+- Kibana, Grafana
+
+**Infrastructure & Delivery**
+- GitHub Actions, Bitrise, Harness
+- Git, Docker, Figma
+
+---
+
+### ENGINEERING EXPERIENCE
+
+- Scalable mobile application architecture
+- Financial experiences: Pix, payments and billing
+- Secure authentication and Auth0 integrations
+- Backend-for-Frontend communication
+- Production monitoring and observability
+- Native integrations across iOS and Android
+
+I also have experience as a Scrum Master, helping engineering teams connect technical decisions, product strategy, and business objectives.
+
+---
+
+### CURRENT INTERESTS
+
+- Open-source engineering
+- Software architecture and system design
+- Developer experience and engineering productivity
+- AI-assisted software evaluation
+- Performance and application reliability
+
+---
+
+### GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=edsonjuniornarvaes.edsonjuniornarvaes" />
-  <a href="https://github.com/edsonjuniornarvaes">
-    <img src="https://img.shields.io/github/followers/edsonjuniornarvaes?label=Follow&style=social" />
-  </a>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B2A4F&height=80&section=footer" style="width: 100%; height: auto; margin-top: 0;" />
+---
+
+<p align="center">
+  <a href="https://github.com/edsonjuniornarvaes">
+    GitHub
+  </a>
+  &nbsp;·&nbsp;
+  <i>Building reliable software, one commit at a time.</i>
+</p>
