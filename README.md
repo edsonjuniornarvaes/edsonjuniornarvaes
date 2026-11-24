@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edsonjuniornarvaes/">
-    <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/edsonjr.andrade">
-    <img src="https://img.shields.io/badge/Instagram-1F6FEB?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:dev.edsonjr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://edsonjuniordev.com.br">
     <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
